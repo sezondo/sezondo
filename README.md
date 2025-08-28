@@ -6,7 +6,7 @@
 - 목표: 게임 개발자 지망
 
 ## 🛠 Tech Stack
-- **Languages**: C, C++, C#, SCL
+- **Languages**: C, C++, C#, SCL(Structured Control Language)
 - **Game Engines**: Unity, Unreal
 
 ## 🚀 Featured Projects
