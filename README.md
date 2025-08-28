@@ -24,7 +24,6 @@
 ## 🌍 Experience
 - 미국 Ultium Cells 1 공장 (GM & LG Energy Solution) 참여
 - 스웨덴 Northbolt R&D 베스테로스 연구소 참여
-- 지멘스(Siemens), 미쓰비시(Mitsubishi) PLC 기반 자동화 시스템 구축 및 시운전
 
 ## 📫 Contact
 - ✉️ Email: sezondo99@gmail.com
