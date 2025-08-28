@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jin Hyeon Gyu
 
-<!--
-**sezondo/sezondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 About Me
+- 전직 PLC 엔지니어 → 현재 게임 개발자 지망
+- Unity / Unreal / C++ / C# / XR(AR/VR) 경험
+- 목표: 게임 개발자 지망
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages**: C, C++, C#, SCL
+- **Game Engines**: Unity, Unreal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [T3: Why Me?](https://github.com/sezondo/T3_Why_Me_unuty) – Unity 기반 전략/오토배틀러 개인 프로젝트
+- [H1: Hit and Run](https://github.com/sezondo/H1_hitAndRun_Unreal) – Unreal TPS 팀 프로젝트
+
+## 📫 Contact
+- ✉️ Email: sezondo99@gmail.com
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sezondo.sezondo)
