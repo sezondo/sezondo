@@ -9,9 +9,17 @@
 - **Languages**: C, C++, C#, SCL(Structured Control Language)
 - **Game Engines**: Unity, Unreal
 
+## 🎓 Education
+- 한국폴리텍대학 하이테크과정 증강현실 시스템과(25.03 ~ 25.12)
+- 국가평생교육진흥원 컴퓨터공학과 (24.07 ~ 25.08)
+- 수원과학대학교 컴퓨터정보과 (18,03 ~ 21.02)
+
 ## 🚀 Featured Projects
 - [T3: Why Me?](https://github.com/sezondo/T3_Why_Me_unuty) – Unity 기반 전략/오토배틀러 개인 프로젝트
 - [H1: Hit and Run](https://github.com/sezondo/H1_hitAndRun_Unreal) – Unreal TPS 팀 프로젝트
+
+## 💼 Work Experience
+- (주)코다 시스템 – PLC Engineer (22.01 ~ 24.05)
 
 ## 🌍 Experience
 - 미국 Ultium Cells 1 공장 (GM & LG Energy Solution) 참여
