@@ -3,7 +3,6 @@
 ## 🎮 About Me
 - 전직 PLC 엔지니어 → 현재 게임 개발자 지망
 - Unity / Unreal / C++ / C# / XR(AR/VR) 경험
-- 목표: 신입 게임 개발자 지망
 
 ## 🛠 Tech Stack
 - **Languages**: C, C++, C#, SCL(Structured Control Language)
